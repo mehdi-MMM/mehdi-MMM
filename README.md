@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @mehdi-MMM  
-- 👀 I’m interested in app development, software engineering, and creating tools , any tool trust me .  
-- 🌱 I’m currently learning Dart and Flutter to build cross-platform applications.  
-- 💞️ I’m looking to collaborate on open-source projects, especially those focused on education or productivity.  
-- 📫 How to reach me: why you wanna reach me??😄.  
-- 😄 Pronouns: He/Him  
-- ⚡ Fun fact: I love solving complex problems and enjoy exploring new tech trends. Outside of coding, I’m a huge fan of futsal and strategy games!
+👋 Hi, I’m @mehdi-MMM
+
+👀 Passionate about: App development, software engineering, and creating tools—any tool, seriously, challenge accepted.
+
+🌱 Currently diving into: Dart and Flutter to work that cross-platform magic.
+
+💞️ Open to collaboration on: Open-source projects, especially those that sprinkle a little extra productivity and education into the world.
+
+📫 Reach me if: You’re up for tech talks, coding banter, or just because you’re curious why I’m so awesome. 😄
+
+😄 Pronouns: He/Him
+
+⚡ Fun Fact: I solve complex problems for fun and chase the latest tech trends like a dog with a squeaky toy. When I'm not coding, you’ll find me scoring goals in futsal or plotting my next move in strategy games!
 
 <!---
 mehdi-MMM/mehdi-MMM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
